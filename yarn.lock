@@ -8446,10 +8446,10 @@ node.extend@^1.0.10:
     has "^1.0.3"
     is "^3.2.1"
 
-node@^14.16.1:
-  version "14.16.1"
-  resolved "https://registry.yarnpkg.com/node/-/node-14.16.1.tgz#8a075d50b249152d09c18ac6d45f60a5359a537a"
-  integrity sha512-SFe89UaWbT8XM3GHrbohdCyZtxAJZt2FYt6orZP9Dyig2EuEV+S8k5cNoDJbokVbXyYLoUv1kHEg60MaYsepVg==
+node@14.19.1:
+  version "14.19.1"
+  resolved "https://registry.yarnpkg.com/node/-/node-14.19.1.tgz#99862d5846cd9e7a1208e37ac64cc039b2ae0a77"
+  integrity sha512-v0l0rw07F0J9oMgiHRyI2wJegrXdNzio7FPV0vd1FahfvIz3fVU0RED0tDSeeytKn+uQX1QxgFyw9qNAaHqXHg==
   dependencies:
     node-bin-setup "^1.0.0"
 
